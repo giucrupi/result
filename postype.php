@@ -32,6 +32,7 @@ $labels = array(
 
 $args = array(
 'supports' => $supports,
+
 'labels' => $labels,
 'public' => true,
 'query_var' => true,

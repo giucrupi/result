@@ -24,6 +24,7 @@ Por seu know how em 2014 tem o convite da <b> CBI – Companhia Brasileira de In
 					<h3>MISSÃO</h3>
 					<p>Realizar obras industrias e empreendimentos imobiliários com qualidade,agregando soluções inovadoras, e melhoria contínua de seus projetos e processos, cuja rentabilidade e satisfação dos clientes e parceiros assegurem a sustentabilidade da companhia e a valorização da marca Result.</p>
 				</div>
+				
 				<div class="desc">
 					<h3>VISÃO</h3>
 					<p>Ser reconhecida pelo mercado imobiliário e pela indústria da construção civil como empresa referência em qualidade, eficiência e capacidade de entregar resultado e rentabilidade.</p>

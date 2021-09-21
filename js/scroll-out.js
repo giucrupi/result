@@ -1,0 +1,3 @@
+    ScrollOut({
+      targets: 'hr'
+    })

@@ -1,0 +1,67 @@
+     .carousel-control-next-icon {
+    background-image: url(/wp-content/uploads/2020/09/next2.png);    width: 27%!important;
+    height: 47%!important;}
+         
+         .carousel-control-prev-icon {
+    background-image: url(/wp-content/uploads/2020/09/prev.png)!important;
+        width: 27%!important;
+    height: 70%!important;
+    margin-right: 52%!important;
+  }
+
+    
+    .carousel-indicators li{
+    background-color: #907440!important;
+        bottom: -20%!important;
+            width: 10%;
+    }
+.carousel-indicators{
+  bottom: -20%!important;
+  right: 16%;
+}
+.carousel-control-prev {
+   
+    height: 13%!important;
+    top: 106%!important;
+}
+.carousel-control-next {
+    right: 0;
+    height: 20%;
+    left: 5%;
+    top: 103%;
+}
+     .p-branco2{
+
+    color: #fff;
+    font-weight: 100!important;
+    font-family: 'Yantramanav', sans-serif!important;
+    
+    font-size: 19px;
+
+     }
+
+.carousel-fade1 .carousel-item {
+ opacity: 0;
+ transition-duration: .6s;
+ transition-property: opacity;
+}
+
+.carousel-fade1  .carousel-item.active,
+.carousel-fade1  .carousel-item-next.carousel-item-left,
+.carousel-fade1  .carousel-item-prev.carousel-item-right {
+  opacity: 1;
+}
+
+.carousel-fade1 .active.carousel-item-left,
+.carousel-fade1  .active.carousel-item-right {
+ opacity: 0;
+}
+
+.carousel-fade1  .carousel-item-next,
+.carousel-fade1 .carousel-item-prev,
+.carousel-fade1 .carousel-item.active,
+.carousel-fade1 .active.carousel-item-left,
+.carousel-fade1  .active.carousel-item-prev {
+ transform: translateX(0);
+ transform: translate3d(0, 0, 0);
+}
